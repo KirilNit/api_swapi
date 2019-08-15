@@ -1,0 +1,11 @@
+Test Case 1:
+  - Get request to the http://swapi.co/api/people/2
+  Expected result:
+    Status code 200
+    C-3PO mass is 75 kilos
+
+Test Case 2:
+  - Get request to the http://swapi.co/api/people/2
+  Expected result:
+    Status code 200
+    C-3PO Height is 167
